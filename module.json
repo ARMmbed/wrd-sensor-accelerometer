@@ -1,6 +1,6 @@
 {
   "name": "wrd-sensor-accelerometer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wearable Reference Design accelerometer API.",
   "keywords": [],
   "author": "Marcus Chang <marcus.chang@arm.com>",
